@@ -1,0 +1,170 @@
+  
+
+ .chart-container {
+   
+  display: flex;
+  margin: auto;
+  width: 80%;
+  height: 500px;
+  position: relative;
+   border-color: rgb(22, 21, 21);
+   border-width: 2px;
+    
+}
+
+#SelectBar{
+display: flex;
+width: 80%;
+}
+
+.SelectBar1{
+  margin: 10px;
+   border-width: 2px;
+  border-color: black;
+
+}
+
+
+
+
+
+
+
+ .chart {
+   
+display: flex;
+  height: 500px;
+  
+   width: 50%;
+   
+}
+ #chart1 {
+  border-width: 2px;
+ 
+  margin-top: 20px;
+
+ background-color: rgb(255, 255, 255);
+   border-color: rgb(22, 21, 21);
+  
+  
+}
+ #chart2 {
+  margin-top: 20px;
+  
+  
+   
+ background-color: rgb(222, 222, 222);
+   border-color: rgb(22, 21, 21);
+   border-width: 2px;
+   
+}
+
+
+
+
+
+
+
+#mySelectYear{
+  border-color: black;
+  border-width: 2px;
+  height: 10px;
+}
+
+#mySelectReason{
+  border-color: black;
+  border-width: 2px;
+  height: 10px;
+}
+
+.heading-bar{
+  width: 95%;
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  background-color: rgb(126, 195, 195);
+  height: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+.data-item{
+  background-color: rgb(255, 255, 255);
+   display: flex;
+   justify-content:space-around ;
+   margin: auto;
+  width: 95%;
+  height: 40px;
+   margin-bottom: 10px;
+  border-width: 2px;
+  border-color: black;
+  list-style-type: none;
+  font-size: 25px;
+}
+.data-item li{
+  width: 100px;
+  text-align: center;
+  overflow: hidden;
+}
+
+
+.button-container{
+  width: 80%;
+  background-color: black;
+  display: flex;
+  margin: auto;
+}
+
+.custom-buttonAj{
+  width: 144px;
+  margin: 10px;
+}
+
+#mySelectYear{
+  
+  
+   margin: 10px;
+}
+
+#selctbar{
+  width: 40%;
+  margin: auto;
+
+   
+}
+ 
+ 
+.MyPieChart{
+  display: flex;
+  position: relative;
+  margin: auto;
+background-color: black;
+width: 90%;
+height: 500px;
+border-width: 2px;
+border-color: black;
+ 
+ box-sizing: border-box;
+}
+.MyPieChart-e{
+  
+   
+   width: 100%;
+    
+}
+ 
+#Selected{
+  width: 30%;
+  margin: auto;
+  background-color: aquamarine;
+  height: 40px;
+ 
+  text-align: center;
+  border-width: 2px;
+  border-color: black;
+}
+#SelectBar-s{
+  width: 30%;
+  height: 40px;
+  background-color: aqua;
+}
+ 
